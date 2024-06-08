@@ -1,3 +1,6 @@
+# CHS Student fork
+Hello everyone, I am **CHS student** and this is my fork of the project listed below:
+
 # Tetris-The-Game
 Hello everyone, I am **Kanak Negi** and this is my project which I have created just for free play.
 
